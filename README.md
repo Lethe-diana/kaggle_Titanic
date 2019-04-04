@@ -1,6 +1,5 @@
 # kaggle_Titanic
-my kaggle Titanic competition
-I've just started learning
+kaggle titanic commpetition
 
-2019-03-13
-'It lacks [feature engineering]', i thought
+2019-04-04
+0.71291 -> 0.77511
